@@ -17,6 +17,7 @@ This repository documents my daily progress learning Rust, focusing on **bridgin
 
 ## 🗂️ Repository Structure
 
+```markdown
 rust-learning-journey/
 ├── daily-progress/         # Daily folders (day-01, day-02, ...)
 │   ├── day-01-ownership/   # Example: Ownership in Rust vs. Python
@@ -26,7 +27,7 @@ rust-learning-journey/
 ├── projects/               # Mini-projects (e.g., CLI tools, data parsers)
 ├── python-vs-rust/         # Key syntax differences cheat sheet
 └── resources.md            # Curated guides for Python devs learning Rust
-
+```
 ---
 ## 🚀 How I’m Learning
 
