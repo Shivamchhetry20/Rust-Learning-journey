@@ -1,4 +1,3 @@
-```markdown
 # 🦀 Learning Rust as a Pythonista 🐍
 
 **A daily journey to learn Rust, with Python side-by-side comparisons.**  
@@ -18,7 +17,6 @@ This repository documents my daily progress learning Rust, focusing on **bridgin
 
 ## 🗂️ Repository Structure
 
-```
 rust-learning-journey/
 ├── daily-progress/         # Daily folders (day-01, day-02, ...)
 │   ├── day-01-ownership/   # Example: Ownership in Rust vs. Python
@@ -28,10 +26,8 @@ rust-learning-journey/
 ├── projects/               # Mini-projects (e.g., CLI tools, data parsers)
 ├── python-vs-rust/         # Key syntax differences cheat sheet
 └── resources.md            # Curated guides for Python devs learning Rust
-```
 
 ---
-
 ## 🚀 How I’m Learning
 
 ### 1. **Theory First (But with Python Lens)**
@@ -123,5 +119,4 @@ Found a better way to explain a Rust concept to Python devs? **PRs welcome!** Le
 
 *Started on [Date]. Still fighting the borrow checker daily. 🛡️*  
 **[Connect with me](https://your-linkedin/github)** | *License: MIT*
-```
 
